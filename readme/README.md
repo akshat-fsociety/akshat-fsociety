@@ -1,4 +1,4 @@
-### Hey !!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
+### Hello Everyone !!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 
 **ABOUT ME** 
 
