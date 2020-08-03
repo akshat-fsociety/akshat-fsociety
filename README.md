@@ -7,7 +7,7 @@ Being a developer of various Technical Forums and Connecting platforms, I have b
 I am presently pursuing Btech in *Information Technology*.
 
 
-<img align ="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />
+<img align ="right" alt="GIF" src="https://media.giphy.com/media/wvQIqJyNBOCjK/giphy.gif" width="400px" />
 
 
 - 💬 Ask me about anything and everything !! 
@@ -17,6 +17,7 @@ I am presently pursuing Btech in *Information Technology*.
 - 📫 **Reach** me here => adaksh5@gmail.com
 
 <!-- <p>
+https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif
   <a href="https://www.linkedin.com/in/akshat-srivastava-4812271a9/">
     <img src="https://img.shields.io/badge/Abhishek-Srivastava-386938188?style=flat&logo=linkedin">
   </a>
