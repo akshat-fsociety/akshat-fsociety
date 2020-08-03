@@ -16,7 +16,6 @@ I am presently pursuing Btech in *Information Technology*.
 - ✍ View my **Blogs** here => https://medium.com/@adaksh5
 - 📫 **Reach** me here => adaksh5@gmail.com
 <hr>
-<br>
  <p>
 <a href="https://www.linkedin.com/in/akshat-srivastava-4812271a9/">
     <img src="https://img.shields.io/badge/Akshat-Srivastava-386938188?style=flat&logo=linkedin" href="">
