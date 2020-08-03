@@ -17,11 +17,12 @@ I am presently pursuing Btech in *Information Technology*.
 - 📫 **Reach** me here => adaksh5@gmail.com
 
  <p>
-https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif
-    <img src="https://img.shields.io/badge/Akshat-Srivastava-386938188?style=flat&logo=linkedin">
+<a href="https://www.linkedin.com/in/akshat-srivastava-4812271a9/">
+    <img src="https://img.shields.io/badge/Akshat-Srivastava-386938188?style=flat&logo=linkedin" href="">
   </a>
  
-<!-- <a href="https://medium.com/@adaksh5"><a href="https://www.linkedin.com/in/akshat-srivastava-4812271a9/">
+<!-- <a href="https://medium.com/@adaksh5">
+https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif<a href="https://www.linkedin.com/in/akshat-srivastava-4812271a9/">
     <img src="https://img.shields.io/badge/abhishek2x-30302f?style=flat&logo=medium">
   </a>
 </p>>
