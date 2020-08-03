@@ -7,7 +7,7 @@ Being a developer of various Technical Forums and Connecting platforms, I have b
 I am presently pursuing Btech in *Information Technology*.
 
 
-<img align ="right" alt="GIF" src="https://media.giphy.com/media/wvQIqJyNBOCjK/giphy.gif" width="400px" />
+<img align ="right" alt="GIF" src="https://media.giphy.com/media/wvQIqJyNBOCjK/giphy.gif" width="300px" />
 
 
 - 💬 Ask me about anything and everything !! 
