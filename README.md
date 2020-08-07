@@ -23,6 +23,9 @@ I am presently pursuing Btech in *Information Technology*.
  <a href="https://medium.com/@adaksh5">
     <img src="https://img.shields.io/badge/Akshat-Srivastava-386938188?style=flat&logo=medium" href="">
   </a>
+  <a href="https://www.linkedin.com/in/akshat-srivastava-4812271a9/">
+    <img src="https://img.shields.io/badge/Akshat-Srivastava-386938188?style=flat&logo=linkedin" href="">
+  </a>
  
 <!-- <a href="https://medium.com/@adaksh5">
 https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif<a href="https://www.linkedin.com/in/akshat-srivastava-4812271a9/">
