@@ -1,4 +1,4 @@
-# An Avid Coder<hr>
+# An Avid Coder
 ### Hello Everyone !!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 
 **ABOUT ME** <br>
