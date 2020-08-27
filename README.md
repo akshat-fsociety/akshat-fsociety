@@ -43,7 +43,7 @@ I am presently pursuing Btech in *Information Technology*.
     <img src="https://img.shields.io/badge/Akshat-Srivastava-386938188?style=flat&logo=medium" href="">
   </a>
  <br><br>
- <a href="https://github.com/anuraghazra/github-readme-stats">
+ <a href="https://github.com/akshat-fsociety/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-fsociety&title_color=fff&text_color=9f9f9f&bg_color=151515&hide=jupyter%20notebook" alt="Akshat's github stats" />
 </a>
 
