@@ -47,9 +47,16 @@ I am presently pursuing Btech in *Information Technology*.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-fsociety&title_color=70a5fd&text_color=38bdae&bg_color=1a1b27&hide=jupyter%20notebook" alt="Akshat's github stats" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akshat-fsociety&hide=issues&count_private=true&show_icons=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27&line_height=40" />
-</a>
+<!--<a href="https://github.com/anuraghazra/github-readme-stats">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=akshat-fsociety&hide=issues&count_private=true&show_icons=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27&line_height=40" />
+</a>-->
+
+
+
+
+
+
+
 <!--   <a href="https://www.linkedin.com/in/akshat-srivastava-4812271a9/">
     <img src="https://img.shields.io/badge/Akshat-Srivastava-386938188?style=flat&logo=linkedin" href="">
   </a> -->
