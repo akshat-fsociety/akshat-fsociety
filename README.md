@@ -42,7 +42,7 @@ I am presently pursuing Btech in *Information Technology*.
  <a href="https://medium.com/@adaksh5">
     <img src="https://img.shields.io/badge/Akshat-Srivastava-386938188?style=flat&logo=medium" href="">
   </a>
- ![](https://komarev.com/ghpvc/?username=akshat-fsociety&style=flat-square&color=blue)
+  (https://komarev.com/ghpvc/?username=akshat-fsociety&style=flat-square&color=blue)
  <br><br>
 <!--  <a href="https://github.com/akshat-fsociety/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-fsociety&title_color=70a5fd&text_color=38bdae&bg_color=1a1b27&hide=jupyter%20notebook" alt="Akshat's github stats" />
