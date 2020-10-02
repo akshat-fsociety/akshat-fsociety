@@ -11,10 +11,10 @@ I am presently pursuing Btech in *Information Technology*.
 
 
 - 💬 Ask me about anything and everything !! 
-- 👨🏻‍💻 View my **Website** here => http://www.akshatsrivastava.tk/
-- 💬 Connect with on **Linkedin** => https://www.linkedin.com/in/akshat-srivastava-4812271a9/
-- ✍ View my **Blogs** here => https://medium.com/@adaksh5
-- 📫 **Reach** me here => adaksh5@gmail.com
+- 👨🏻‍💻 View my **Website** here => <a href="http://www.akshatsrivastava.tk/">Portfolio</a>
+- 💬 Connect with on **Linkedin** => <a href="https://www.linkedin.com/in/akshat-srivastava-4812271a9/">LinkedIn</a>
+- ✍ View my **Blogs** here => <a href="https://medium.com/@adaksh5">Blogs</a>
+- 📫 **Reach** me here => <a href="adaksh5@gmail.com">Mail</a>
 <hr>
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
