@@ -16,10 +16,6 @@ I am presently pursuing Btech in *Information Technology*.
 - ✍ View my **Blogs** here => <a href="https://medium.com/@adaksh5">Blogs</a>
 - 📫 **Reach** me here => <a href="adaksh5@gmail.com">Mail</a>
 <hr>
-<!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
- -->
 <br />
 
 **echo "Languages and Toolkit:"**
@@ -51,19 +47,3 @@ I am presently pursuing Btech in *Information Technology*.
 <a href="https://github.com/anuraghazra/github-readme-stats">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akshat-fsociety&show=issues&count_private=true&show_icons=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27&line_height=40" />
 </a>
-
-
-
-
-
-
-
-<!--   <a href="https://www.linkedin.com/in/akshat-srivastava-4812271a9/">
-    <img src="https://img.shields.io/badge/Akshat-Srivastava-386938188?style=flat&logo=linkedin" href="">
-  </a> -->
- 
-<!-- <a href="https://medium.com/@adaksh5">
-https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif<a href="https://www.linkedin.com/in/akshat-srivastava-4812271a9/">
-    <img src="https://img.shields.io/badge/abhishek2x-30302f?style=flat&logo=medium">
-  </a>
-</p>>
