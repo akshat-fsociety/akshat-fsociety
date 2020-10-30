@@ -38,6 +38,8 @@ I am presently pursuing Btech in *Information Technology*.
  <a href="https://medium.com/@adaksh5">
     <img src="https://img.shields.io/badge/Akshat-Srivastava-386938188?style=flat&logo=medium" href="">
   </a>
+ ![visitors](https://komarev.com/ghpvc/?username=akshat-fsociety)
+
 <!--   (https://komarev.com/ghpvc/?username=akshat-fsociety&style=flat-square&color=blue) -->
  <br><br>
 <!--  <a href="https://github.com/akshat-fsociety/github-readme-stats">
