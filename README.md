@@ -4,7 +4,9 @@
 **ABOUT ME** <br>
 I am a *developer* by passion, a tech enthusiast, open-source contributor, tech blogger, writer, for those who want to learn programming and development.
 Being a developer of various Technical Forums and Connecting platforms, I have been contributing *to make the youth of this world well versed with programming*.
-I am presently pursuing Btech in *Information Technology*.
+I am presently pursuing Btech in *Information Technology*.<br><br>
+![visitors](https://komarev.com/ghpvc/?username=akshat-fsociety&style=flat-square&color=red)
+
 
 
 <img align ="right" alt="GIF" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" width="300px" />
@@ -38,9 +40,6 @@ I am presently pursuing Btech in *Information Technology*.
  <a href="https://medium.com/@adaksh5">
     <img src="https://img.shields.io/badge/Akshat-Srivastava-386938188?style=flat&logo=medium" href="">
   </a>
- ![visitors](https://komarev.com/ghpvc/?username=akshat-fsociety)
-
-<!--   (https://komarev.com/ghpvc/?username=akshat-fsociety&style=flat-square&color=blue) -->
  <br><br>
 <!--  <a href="https://github.com/akshat-fsociety/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-fsociety&title_color=70a5fd&text_color=38bdae&bg_color=1a1b27&hide=jupyter%20notebook" alt="Akshat's github stats" />
