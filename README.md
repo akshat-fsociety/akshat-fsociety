@@ -5,11 +5,13 @@
 I am a *developer* by passion, a tech enthusiast, open-source contributor, tech blogger, writer, for those who want to learn programming and development.
 Being a developer of various Technical Forums and Connecting platforms, I have been contributing *to make the youth of this world well versed with programming*.
 I am presently pursuing Btech in *Information Technology*.<br><br>
-![visitors](https://komarev.com/ghpvc/?username=akshat-fsociety&style=flat-square&color=red)
+
+
+<!--![visitors](https://komarev.com/ghpvc/?username=akshat-fsociety&style=flat-square&color=red)-->
 
 
 
-<!-- <img align ="right" alt="GIF" src="https://camo.githubusercontent.com/6b8003c24dc861b87ecca67ebc00ac25a32a2481a22cc2f3fc6a5826750a4fd5/68747470733a2f2f717068732e66732e71756f726163646e2e6e65742f6d61696e2d71696d672d3033613461356630333462663062616661363631666438613861616265646338" width="300px" /> -->
+ <img align ="right" alt="GIF" src="https://camo.githubusercontent.com/6b8003c24dc861b87ecca67ebc00ac25a32a2481a22cc2f3fc6a5826750a4fd5/68747470733a2f2f717068732e66732e71756f726163646e2e6e65742f6d61696e2d71696d672d3033613461356630333462663062616661363631666438613861616265646338" width="300px" /> 
 
 <!--https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif-->
 - 💬 Ask me about anything and everything !! 
