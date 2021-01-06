@@ -11,7 +11,7 @@ I am presently pursuing Btech in *Information Technology*.<br><br>
 
 
 
- <img align ="right" alt="GIF" src="https://camo.githubusercontent.com/6b8003c24dc861b87ecca67ebc00ac25a32a2481a22cc2f3fc6a5826750a4fd5/68747470733a2f2f717068732e66732e71756f726163646e2e6e65742f6d61696e2d71696d672d3033613461356630333462663062616661363631666438613861616265646338" width="300px" /> 
+ <img align ="right" alt="GIF" src="https://camo.githubusercontent.com/d3a9f3a787ffc69aa73aa0a5cb5a29b968b823b62d80f7b589a705664dde9e2b/68747470733a2f2f7777772e627970656f706c652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30332f70656f706c652d61742d776f726b2e676966" width="300px" /> 
 
 <!--https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif-->
 - 💬 Ask me about anything and everything !! 
