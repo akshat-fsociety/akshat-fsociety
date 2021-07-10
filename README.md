@@ -5,7 +5,7 @@
 I am a *developer* by passion, a tech enthusiast, open-source contributor, tech blogger, writer, for those who want to learn programming and development.
 Being a developer of various Technical Forums and Connecting platforms, I have been contributing *to make the youth of this world well versed with programming*.
 I am presently pursuing Btech in *Information Technology*.<br><br>
-
+<i>"Those who can't remember the past are condemned to repeat it"</i> ~ Dynamic Programming
 
 <!--![visitors](https://komarev.com/ghpvc/?username=akshat-fsociety&style=flat-square&color=red)-->
 
