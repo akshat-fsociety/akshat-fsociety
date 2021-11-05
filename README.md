@@ -1,5 +1,5 @@
 # ***An Avid Coder***
-### Hello Everyone !!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
+### Hello World 🌏 !!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 
 **ABOUT ME** <br>
 I am a *developer* by passion, a tech enthusiast, open-source contributor, tech blogger, writer, for those who want to learn programming and development.
